@@ -8,7 +8,7 @@
 * Data Analysis
 * Deep Learning
 * Machine Learning
-* Computer vision 
+* Computer Vision 
 * Natural Language Processing 
 
 <h3 align="left">Languages and Tools:</h3>
